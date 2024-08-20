@@ -1,4 +1,4 @@
-body {
+.body {
     color: white;
     background: black;
     margin: 0px;
@@ -6,10 +6,10 @@ body {
     margin-bottom: 100px;
 }
 
-.header {
-    border-bottom: solid 30px rgb(42, 122, 228);
+.body {
+    border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
-    font-size: 90px;
+    font-size: 32px;
     color: rgb(42, 122, 228);
 }
 
@@ -25,11 +25,11 @@ body {
     margin-right: 5%;
 }
 
-h1 {
+.h1 {
     font-size: 40px;
 }
 
-p {
+.body {
     font-size: 20px;
 }
 
